@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-family: 'Shadows Into Light', cursive;
+}
+h2 h3{
+    font-family: 'Nanum Myeongjo', serif;
+}
+.carousel-item {
+    height: 80vh;
+    min-height: 350px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  #head3{
+      margin:0px auto ;
+  }
+.marketing{
+    text-align: center;
+}
+.whyus h2{
+    font-size: 18px;
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+}
+.col-lg-2{
+    margin-right: 30px;
+    text-align: center;
+}
+.whm{
+    margin-top: 50px;
+    padding-top: 50px;
+}
